@@ -23,7 +23,7 @@ O objetivo é servir como projeto de portfólio e base para evoluções (sincron
 
 - **React Native**  
 - **Expo**  
-- **JavaScript (ES6+)**  
+- **JavaScript**  
 - **expo-sqlite** (SQLite local)  
 - **React Navigation** (navegação entre telas)
 
