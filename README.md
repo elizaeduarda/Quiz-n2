@@ -3,7 +3,7 @@
 **QuizFutur** é um aplicativo mobile de quiz desenvolvido com **React Native**, **Expo** e **JavaScript**.  
 O app permite cadastrar, editar e excluir temas e perguntas, visualizar todos os temas e perguntas cadastrados e jogar quizzes por tema.
 
-[![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)](https://github.com/elizaeduarda/QuizFutur)
+[![Status](https://img.shields.io/badge/status-concluido-green)](https://github.com/elizaeduarda/QuizFutur)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 ---
@@ -24,8 +24,8 @@ O objetivo é servir como projeto de portfólio e base para evoluções (sincron
 - **React Native**  
 - **Expo**  
 - **JavaScript**  
-- **expo-sqlite** (SQLite local)  
-- **React Navigation** (navegação entre telas)
+- **SQLite** 
+- **React Navigation**
 
 ---
 
