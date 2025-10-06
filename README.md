@@ -1,21 +1,13 @@
 # 🧠 QuizFutur
 
 **QuizFutur** é um aplicativo mobile de quiz desenvolvido com **React Native**, **Expo** e **JavaScript**.  
-O app permite cadastrar, editar e excluir temas e perguntas, visualizar todos os temas e perguntas cadastrados e jogar quizzes por tema.
-
-[![Status](https://img.shields.io/badge/status-concluido-green)](https://github.com/elizaeduarda/QuizFutur)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-
----
-
-## 🟦 Sobre
-
-QuizFutur é um aplicativo de quiz local (offline) que oferece:
+O app oferece: 
 - Gestão de **temas** (criar, editar, excluir).  
 - Gestão de **perguntas** (associadas a temas) com 4 alternativas e indicação da resposta correta.  
 - Modo **jogo** por tema, com feedback de acerto/erro e contagem de pontos.
 
-O objetivo é servir como projeto de portfólio e base para evoluções (sincronização em nuvem, multiplayer, estatísticas, etc).
+[![Status](https://img.shields.io/badge/status-concluido-green)](https://github.com/elizaeduarda/QuizFutur)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 ---
 
@@ -27,8 +19,6 @@ O objetivo é servir como projeto de portfólio e base para evoluções (sincron
 - **SQLite** 
 - **React Navigation**
 
----
-
 ## ✅ Funcionalidades
 
 - Cadastro de temas (nome, cor e dificuldade)  
@@ -38,19 +28,6 @@ O objetivo é servir como projeto de portfólio e base para evoluções (sincron
 - Tela de listagem de temas e perguntas  
 - Modo de jogo: seleciona-se um tema e responde às perguntas, com contador de acertos
 
----
-
-## 🏗️ Estrutura do Projeto 
-quiz-n2/
-├── assets/
-├── services/
-├── telas/
-├── App.js
-├── app.json
-├── index.js
-├── package-lock.json
-└── package.json
----
 ## ⚙️ Como Executar o Projeto
 
 1. **Clone o repositório**
