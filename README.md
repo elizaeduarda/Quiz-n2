@@ -18,12 +18,19 @@ O app oferece:
 
 ## ✅ Funcionalidades
 
-- Cadastro de temas (nome, cor e dificuldade)  
-- Edição e exclusão de temas  
-- Cadastro de perguntas com 4 alternativas 
-- Edição e exclusão de perguntas  
-- Tela de listagem de temas e perguntas  
-- Modo de jogo: seleciona-se um tema e responde às perguntas, com contador de acertos
+- 📚 **Temas**
+  - Cadastro, edição e exclusão  
+  - Campos: nome, cor e dificuldade  
+
+- ❓ **Perguntas**
+  - Cadastro com 4 alternativas e uma correta  
+  - Edição e exclusão  
+  - Vinculação direta a um tema  
+
+- 🧠 **Modo Jogo**
+  - Seleção de um tema  
+  - Exibição das perguntas de forma interativa  
+  - Contador de acertos e feedback visual  
 
 ## ⚙️ Como Executar o Projeto
 
