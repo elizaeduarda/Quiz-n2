@@ -8,21 +8,6 @@ O app permite cadastrar, editar e excluir temas e perguntas, visualizar todos os
 
 ---
 
-## 📌 Sumário
-
-- [Sobre](#-sobre)  
-- [Tecnologias](#-tecnologias)  
-- [Funcionalidades](#-funcionalidades)  
-- [Estrutura do Projeto](#-estrutura-do-projeto)  
-- [Como Executar](#-como-executar)  
-- [Banco de Dados](#-banco-de-dados)  
-- [Melhorias Futuras](#-melhorias-futuras)  
-- [Preview](#-preview)  
-- [Desenvolvedora](#-desenvolvedora)  
-- [Licença](#-licença)
-
----
-
 ## 🟦 Sobre
 
 QuizFutur é um aplicativo de quiz local (offline) que oferece:
