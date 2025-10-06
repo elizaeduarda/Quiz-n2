@@ -50,3 +50,21 @@ quiz-n2/
 ├── index.js
 ├── package-lock.json
 └── package.json
+---
+## ⚙️ Como Executar o Projeto
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/elizaeduarda/QuizFutur.git
+2. **Acesse o diretório**
+   ```bash
+    cd quiz-n2
+3. **Instale as dependências**
+   ```bash
+   npm install
+4. **Execute o projeto com o Expo**
+   ```bash
+    npx expo start
+5. **Abra o app no dispositivo**
+- Escaneie o QR Code com o aplicativo Expo Go (Android ou iOS)
+- Ou rode no emulador (Android Studio ou iOS Simulator)
